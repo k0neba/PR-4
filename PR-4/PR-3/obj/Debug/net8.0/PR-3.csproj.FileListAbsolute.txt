@@ -1,0 +1,14 @@
+E:\source\PR-3\PR-3\bin\Debug\net8.0\PR-3.exe
+E:\source\PR-3\PR-3\bin\Debug\net8.0\PR-3.deps.json
+E:\source\PR-3\PR-3\bin\Debug\net8.0\PR-3.runtimeconfig.json
+E:\source\PR-3\PR-3\bin\Debug\net8.0\PR-3.dll
+E:\source\PR-3\PR-3\bin\Debug\net8.0\PR-3.pdb
+E:\source\PR-3\PR-3\obj\Debug\net8.0\PR-3.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\PR-3\PR-3\obj\Debug\net8.0\PR-3.AssemblyInfoInputs.cache
+E:\source\PR-3\PR-3\obj\Debug\net8.0\PR-3.AssemblyInfo.cs
+E:\source\PR-3\PR-3\obj\Debug\net8.0\PR-3.csproj.CoreCompileInputs.cache
+E:\source\PR-3\PR-3\obj\Debug\net8.0\PR-3.dll
+E:\source\PR-3\PR-3\obj\Debug\net8.0\refint\PR-3.dll
+E:\source\PR-3\PR-3\obj\Debug\net8.0\PR-3.pdb
+E:\source\PR-3\PR-3\obj\Debug\net8.0\PR-3.genruntimeconfig.cache
+E:\source\PR-3\PR-3\obj\Debug\net8.0\ref\PR-3.dll
